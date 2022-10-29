@@ -29,3 +29,11 @@
 ## Learned
 
 - string.includes() method
+
+---
+
+# Is it a palindrome?
+
+## Learned
+
+- string.toLowerCase() method
