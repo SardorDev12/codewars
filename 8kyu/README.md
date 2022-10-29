@@ -37,3 +37,13 @@
 ## Learned
 
 - string.toLowerCase() method
+
+---
+
+# Anagram Detection
+
+## Learned
+
+- string.split() method;
+- array.sort() method;
+- array.join() method
