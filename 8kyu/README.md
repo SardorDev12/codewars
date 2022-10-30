@@ -47,3 +47,13 @@
 - string.split() method;
 - array.sort() method;
 - array.join() method
+
+---
+
+# Birthday I - Cake
+
+## Learned
+
+- Ternary operator (?, :)
+- string.charCodeAt(index)
+- finding the alphabetical order of a letter (charCodeAt(index - 96))
