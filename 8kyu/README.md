@@ -77,3 +77,11 @@
 ## Learned
 
 - isNaN() function
+
+---
+
+# Even or Odd
+
+## Learned
+
+- Ternary operator (?, :)
