@@ -69,3 +69,11 @@
 - Math.floor() method
 - Math.ceil() method
 - Templete literals
+
+---
+
+# Filter the number
+
+## Learned
+
+- isNaN() function
