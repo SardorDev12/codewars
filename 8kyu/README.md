@@ -57,3 +57,15 @@
 - Ternary operator (?, :)
 - string.charCodeAt(index)
 - finding the alphabetical order of a letter (charCodeAt(index - 96))
+
+---
+
+# Get the Middle Character
+
+## Learned
+
+- string.charAt() method
+- Math.round() method
+- Math.floor() method
+- Math.ceil() method
+- Templete literals
