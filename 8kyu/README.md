@@ -85,3 +85,11 @@
 ## Learned
 
 - Ternary operator (?, :)
+
+---
+
+# Century From Year
+
+## Learned
+
+- Number.isInteger(num)
