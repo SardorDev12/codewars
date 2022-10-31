@@ -93,3 +93,14 @@
 ## Learned
 
 - Number.isInteger(num)
+
+---
+
+# Greatest common divisor
+
+## Learned
+
+- How to calculate GDC
+- Creating temporary variables
+- While loop
+- typeof
