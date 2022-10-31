@@ -129,3 +129,12 @@
 ## Learned
 
 - String(num)
+
+---
+
+# Is a number prime?
+
+## Learned
+
+- Math.sqrt()
+- How to check if number is a Prime
