@@ -104,3 +104,12 @@
 - Creating temporary variables
 - While loop
 - typeof
+
+---
+
+# Factorial
+
+## Learned
+
+- throw RangeError
+- how to calculate factorial
