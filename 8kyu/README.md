@@ -113,3 +113,11 @@
 
 - throw RangeError
 - how to calculate factorial
+
+---
+
+# Find The Duplicated Number in a Consecutive Unsorted List
+
+## Learned
+
+- How to compare arr[i] with arr[i+1]
