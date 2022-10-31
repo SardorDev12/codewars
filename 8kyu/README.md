@@ -121,3 +121,11 @@
 ## Learned
 
 - How to compare arr[i] with arr[i+1]
+
+---
+
+# Number of Decimal Digits
+
+## Learned
+
+- String(num)
