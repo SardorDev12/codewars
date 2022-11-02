@@ -138,3 +138,11 @@
 
 - Math.sqrt()
 - How to check if number is a Prime
+
+---
+
+# Remove duplicates from list
+
+## Learned
+
+- Remove duplicates from array using Set
