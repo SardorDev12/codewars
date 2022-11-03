@@ -146,3 +146,11 @@
 ## Learned
 
 - Remove duplicates from array using Set
+
+---
+
+# Sum of positive
+
+## Learned
+
+- arr.forEach()
