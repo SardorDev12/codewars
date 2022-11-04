@@ -178,3 +178,12 @@
 ## Learned
 
 - arr.reduce()
+
+---
+
+# Square Every Digit
+
+## Learned
+
+- arr.map()
+- arr.join()
