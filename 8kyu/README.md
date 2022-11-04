@@ -154,3 +154,11 @@
 ## Learned
 
 - arr.forEach()
+
+---
+
+# Fizz Buzz
+
+## Learned
+
+- remainder operator (%)
