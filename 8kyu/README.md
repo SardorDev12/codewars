@@ -169,4 +169,12 @@
 
 ## Learned
 
-- Currying functions - f.e: myFunc(2)(4);
+- Currying functions
+
+---
+
+# Shortest Word
+
+## Learned
+
+- arr.reduce()
