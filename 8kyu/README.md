@@ -162,3 +162,11 @@
 ## Learned
 
 - remainder operator (%)
+
+---
+
+# Currying functions: multiply all elements in an array
+
+## Learned
+
+- Currying functions - f.e: myFunc(2)(4);
