@@ -187,3 +187,11 @@
 
 - arr.map()
 - arr.join()
+
+---
+
+# Easy mathematical callback
+
+## Learned
+
+- Callback function
