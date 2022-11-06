@@ -195,3 +195,11 @@
 ## Learned
 
 - Callback function
+
+---
+
+# Head, Tail, Init and Last
+
+## Learned
+
+- arr.slice()
