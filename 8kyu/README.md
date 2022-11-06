@@ -203,3 +203,11 @@
 ## Learned
 
 - arr.slice()
+
+---
+
+# Array Deep Count
+
+## Learned
+
+- arr.reduce()
