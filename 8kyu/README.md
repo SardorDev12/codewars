@@ -219,3 +219,11 @@
 ## Learned
 
 - Itearating over Object properties
+
+---
+
+# Count characters in your string
+
+## Learned
+
+- Forming objects with new data
