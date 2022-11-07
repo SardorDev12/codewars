@@ -227,3 +227,11 @@
 ## Learned
 
 - Forming objects with new data
+
+---
+
+# Run-length encoding
+
+## Learned
+
+- arr.push([])
