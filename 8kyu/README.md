@@ -211,3 +211,11 @@
 ## Learned
 
 - arr.reduce()
+
+---
+
+# Who's Online?
+
+## Learned
+
+- Itearating over Object properties
